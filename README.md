@@ -1,7 +1,6 @@
-EcoType: Forest Cover Type Prediction Using Machine Learning
+EcoType: Forest Cover Type Prediction Using Machine Learning**
 Developed a machine learning model to classify forest cover types using geospatial and environmental data (~145K records, 55 features). Performed extensive EDA, feature engineering, and model optimization using Random Forest and XGBoost, achieving 95% accuracy. Deployed the model via a Streamlit web app for interactive predictions.
 Skills: Python, Pandas, Scikit-learn, XGBoost, Matplotlib, Streamlit, EDA, Model Tuning
-📘 Detailed Project Report (Portfolio / Presentation Format)
 🌳 Project Title:
 EcoType: Forest Cover Type Prediction Using Machine Learning
 ________________________________________
@@ -59,4 +58,5 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Decision Tree classifi
 ________________________________________
 🏁 Conclusion
 •	The EcoType project demonstrates the potential of machine learning in environmental modeling and forest management. The  model’s RandomForestClassifier strong performance shows that terrain and soil-related features are powerful predictors of forest cover types, providing valuable insights for ecological decision-making.
+
 
